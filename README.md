@@ -1,7 +1,7 @@
 ginger-example
 ==============
 
-Example implementation for the ginger framework
+Example implementation for the ginger framework: https://github.com/newestindustry/ginger-rest
 
 How to
 ======
