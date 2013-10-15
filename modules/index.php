@@ -4,4 +4,4 @@
  * 
  */
 
-$this->getResponse()->setData(array("version" => "2.1.3"));
+$this->getResponse()->setData(array("it" => "works!"));
