@@ -1,7 +1,7 @@
 <?php
 /**
  * modules/sample/get
- * 
+ *
  */
 
 $filter = $this->getFilterParameters();

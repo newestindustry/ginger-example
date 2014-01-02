@@ -1,7 +1,7 @@
 <?php
 /**
  * modules/sample/delete
- * 
+ *
  */
 
 $filter = $this->getFilterParameters();

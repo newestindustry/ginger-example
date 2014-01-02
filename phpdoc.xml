@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpdocumentor>
+	<title>Ginger Framework</title>
+	<parser>
+		<target>./docs</target>
+	</parser>
+	<transformer>
+		<target>./docs</target>
+	</transformer>
+	<files>
+		<directory>./vendor/ginger/ginger/src</directory>
+	</files>
+
+	<plugins>
+		<plugin path="Core">
+			<option name="a">value</option>
+		</plugin>
+	</plugins>
+</phpdocumentor>

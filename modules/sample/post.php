@@ -1,7 +1,7 @@
 <?php
 /**
  * modules/sample/post
- * 
+ *
  */
 
 $data = $this->getDataParameters();
